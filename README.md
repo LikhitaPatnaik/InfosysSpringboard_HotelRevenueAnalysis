@@ -1,6 +1,6 @@
 # Project Overview
 
-The "HOTEL REVENUE MANAGEMENT" project transforms raw hospitality data into actionable insights. It moves beyond standard reporting to provide a predictive and strategic analytics system. The solution empowers General Managers and Revenue Managers to optimize pricing, segment customers based on behavior, and mitigate revenue leakage through forecasting.
+The "HOTEL REVENUE MANAGEMENT" is an end-to-end Power BI solution that implements a robust Star Schema,transforming raw hospitality data into actionable insights. It moves beyond standard reporting to provide a predictive and strategic analytics system. The solution empowers General Managers and Revenue Managers to optimize pricing, segment customers based on behavior, and mitigate revenue leakage through forecasting.
 
 # Tech Stack
 
